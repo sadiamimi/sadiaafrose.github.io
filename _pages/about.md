@@ -18,7 +18,7 @@ redirect_from:
 5G/6G Cellular Systems || Localization || Applied Machine Learning/Deep Learning || Signal Processing
 
 # Updates
-- **December 13, 2024**: Secured Best Paper Award at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
+- **December 13, 2024**: Achieved Best Paper Award at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
   
 - **December 19, 2024**: Paper presentated at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
 - **November 20, 2024**: Paper accepted at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
