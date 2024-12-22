@@ -31,4 +31,4 @@ of enhancing global connectivity and addressing critical challenges in this fiel
 - **May 27, 2023**: Graduated with B.Sc. degree from Bangladesh University of Engineering and Technology!
 
 - **May 17, 2023**: Defended my B.Sc. thesis entitled "Efficient Defense Against First Order Adversarial Attacks on Convolutional Neural Networks"!
-- **June 25, 2022**: Awarded 2nd Runner-Up in the Humanitarian Project Design Idea Contest at the International Symposium on Social Implications of Sustainable Technology 2022, organized by the IEEE Bangladesh Section as part of the Co-located Conferences 2022!
+- **June 25, 2022**: Awarded 2nd Runner-Up in the Humanitarian Project Design Idea Contest at the International Symposium on Social Implications of Sustainable Technology 2022 of IEEE Bangladesh Section Co-located Conferences 2022!
