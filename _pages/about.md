@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👩🏻‍💻 I am currently serving as a Senior Associate, Radio Access Network Operations at [Robi Axiata PLC](https://www.robi.com.bd/en/corporate/company-profile).
+- 👩🏻‍💻 I am currently serving as a Senior Associate, Radio Access Network Operations at [Robi Axiata PLC](https://www.robi.com.bd/en/corporate/company-profile).
 
-👩🏻‍🎓 I graduated with B.Sc. degree in [Electrical and Electronic Engineering](https://eee.buet.ac.bd/) at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/) in 2023.
+- 👩🏻‍🎓 I graduated with B.Sc. degree in [Electrical and Electronic Engineering](https://eee.buet.ac.bd/) at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/) in 2023.
 
-📚 My major was Communication and Signal Processing.
+- 📚 My major was Communication and Signal Processing.
 
 # 👩🏻‍💻📓✍🏻💡Research Interest
 Wireless Communication | Next-generation Wireless Networks | Massive MIMO | Wireless Security | mm-Wave | Open RAN |
