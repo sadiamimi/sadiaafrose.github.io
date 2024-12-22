@@ -11,6 +11,8 @@ redirect_from:
 
 👩🏻‍🎓 I graduated with B.Sc. degree in [Electrical and Electronic Engineering](https://eee.buet.ac.bd/) at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/) in 2023.
 
+📚 My major was Communication and Signal Processing.
+
 # 👩🏻‍💻📓✍🏻💡Research Interest
 Wireless Communication | Next-generation Wireless Networks | Massive MIMO | Wireless Security | mm-Wave | Open RAN |
 5G/6G Cellular Systems | Localization | Applied Machine Learning/Deep Learning | Signal Processing
