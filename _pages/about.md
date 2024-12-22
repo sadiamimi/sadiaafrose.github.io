@@ -12,7 +12,7 @@ redirect_from:
 - 👩🏻‍🎓 I graduated with B.Sc. degree in [Electrical and Electronic Engineering](https://eee.buet.ac.bd/) at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/) in 2023.
 
 - 📚 My major was Communication and Signal Processing.
-- I want to use innovative engineering solutions to advance next-generation wireless technologies, with the goal
+- 🌐 I want to use innovative engineering solutions to advance next-generation wireless technologies, with the goal
 of enhancing global connectivity and addressing critical challenges in this field.
 
 # 👩🏻‍💻📓✍🏻💡Research Interest
