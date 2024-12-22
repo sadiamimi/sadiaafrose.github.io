@@ -14,8 +14,8 @@ redirect_from:
 - 📚 My major was Communication and Signal Processing.
 
 # 👩🏻‍💻📓✍🏻💡Research Interest
-Wireless Communication | Next-generation Wireless Networks | Massive MIMO | Wireless Security | mm-Wave | Open RAN |
-5G/6G Cellular Systems | Localization | Applied Machine Learning/Deep Learning | Signal Processing
+- Wireless Communication || Next-generation Wireless Networks || Massive MIMO || Wireless Security || mm-Wave || Open RAN ||
+5G/6G Cellular Systems || Localization || Applied Machine Learning/Deep Learning || Signal Processing
 
 # Updates
 - **December 13, 2024**: Secured Best Paper Award at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
