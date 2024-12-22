@@ -16,7 +16,6 @@ redirect_from:
 of enhancing global connectivity and addressing critical challenges in this field.
 
 # 👩🏻‍💻📓✍🏻💡Research Interest
-
 Wireless Communications | Next-generation Wireless Networks | Massive MIMO | Wireless Security | mm-Wave | Open RAN |
 5G/6G Cellular Systems | Localization | Applied Machine Learning/Deep Learning | Signal Processing
 
