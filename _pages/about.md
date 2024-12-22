@@ -25,7 +25,7 @@ of enhancing global connectivity and addressing critical challenges in this fiel
   
 - **December 19, 2024**: Paper presented at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
 - **November 20, 2024**: Paper accepted at the 13th International Conference on Electrical and Computer Engineering (ICECE 2024)!
-
+- **October 01, 2024**: Reassigned as a Senior Associate, Radio Access Network Operations at Robi Axiata PLC!
 - **August 01, 2023**: Joined as a Specailist, Radio Access Network Operations at Robi Axiata PLC!
   
 - **May 27, 2023**: Graduated with B.Sc. degree from Bangladesh University of Engineering and Technology!
